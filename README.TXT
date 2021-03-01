@@ -1,12 +1,9 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: SNAKE GAME
+PURPOSE OF PROJECT: FUn/Practice
+VERSION or DATE: 2020
+HOW TO START THIS PROJECT: Learning Java 
+AUTHORS: BRidget Torres
+USER INSTRUCTIONS: Move arrow keys to play, press space to restart 
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+The game and coding is a bit messed up, but it works fine with a few errors. :)
